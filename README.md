@@ -83,6 +83,11 @@ Simulated at 4MHz clock frequency to compensate for host machine processing limi
 - **Final Year:** Full autonomous build with distress communication
 - **Vision:** Sound source localization, voice recognition, AI integration
 
+## Circuit Schematic
+
+![Buddy Decision Logic V1 Schematic](Screenshot%20(63).png)
+
+---
 ---
 
 *Built from Gaborone, Botswana. Starting small. Thinking big.* 🇧🇼
